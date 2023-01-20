@@ -1,4 +1,4 @@
-# moscow-master-api
+# moscow-master-api-mongooes
 ```
     index.js                # API entry point
     └─── configs            # Configuration related stuff
